@@ -15,7 +15,7 @@
 
 * ```k``` move top one line.
 
-* ```O``` move to the beginning of the line.
+* ```0``` move to the beginning of the line.
 
 * ```$``` move to the end of the line.
 
